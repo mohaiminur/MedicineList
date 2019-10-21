@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    >
+
+
+    <TextView
+        android:id="@+id/drug_id"
+        android:layout_width="54dp"
+        android:layout_height="42dp"
+        android:textSize="15dp"
+        android:textAlignment="center"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textColor="#08308e"
+
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <TextView
+        android:id="@+id/drugs_name"
+        android:layout_width="239dp"
+        android:layout_height="40dp"
+        android:layout_marginEnd="40dp"
+        android:autoLink="web"
+        android:textColor="#08308e"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="33dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
