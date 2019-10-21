@@ -32,8 +32,8 @@
 ## Author Info
 - Linkedin- [@Mohaiminur](https://www.linkedin.com/in/mohaiminur/)
 - Youtube- [@Mohaiminur](https://www.youtube.com/channel/UC5MlwVt5vXtpHvgDHxbgqmw)
-- Facebook- [@Mohaiminur](https://facebook.com/sifat404)
-- Twitter - [@Mohaiminur](https://twitter.com/sifatkhan442)
+- Facebook- [@Mohaiminur](https://www.facebook.com/sifatt404)
+- Twitter - [@Mohaiminur](https://twitter.com/sifat404)
 - Website - [Mohaiminur](https://mohai.me)
 
 ---
