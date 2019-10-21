@@ -5,7 +5,7 @@
 * Java
 * Xml
 * Volley
-* Volley Cache for offline storage
+* Offline storage(Cache)
 
 
 
