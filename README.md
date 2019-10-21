@@ -11,7 +11,7 @@
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=T6KW6i4AWVw
 ---
-## Every Medicine have  this feature and also user can search the medicine
+#### Every Medicine have below feature and also user can search the medicine
 
 * drugs name
 * indications
